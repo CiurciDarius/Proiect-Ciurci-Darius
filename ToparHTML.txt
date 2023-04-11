@@ -1,0 +1,13 @@
+<div class="topbar">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <span class="logo">LOGO</span>
+        <span class="topbar-text desktop">Text simplu pentru desktop</span>
+        <div class="topbar-text mobile">
+          <marquee behavior="scroll" direction="left">Text pentru alergare infinită pe mobil</marquee>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
